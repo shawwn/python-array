@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-array"
-version = "0.1.0"
+version = "0.1.1"
 homepage = "https://github.com/shawwn/python-array"
 description = "https://python-utilities.readthedocs.io/en/latest/array.html"
 authors = ["Shawn Presser <shawnpresser@gmail.com>"]
