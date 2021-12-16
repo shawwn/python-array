@@ -4,15 +4,13 @@ version = "0.1.0"
 homepage = "https://github.com/shawwn/python-array"
 description = "https://python-utilities.readthedocs.io/en/latest/array.html"
 authors = ["Shawn Presser <shawnpresser@gmail.com>"]
+maintainers = ["Shawn Presser <shawnpresser@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "python_array"}]
 
 [tool.poetry.dependencies]
 python = "^3.6"
-
-[tool.poetry.group.dev.dependencies]
-pytest = "^5.2"
 
 [build-system]
 requires = ["setuptools", "poetry-core"]
