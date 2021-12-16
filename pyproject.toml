@@ -3,7 +3,7 @@ name = "python-array"
 version = "0.1.0"
 homepage = "https://github.com/shawwn/python-array"
 description = "https://python-utilities.readthedocs.io/en/latest/array.html"
-authors = ["Shawn Presser"]
+authors = ["Shawn Presser <shawnpresser@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "python_array"}]
